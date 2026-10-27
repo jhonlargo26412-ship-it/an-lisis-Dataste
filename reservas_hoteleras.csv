@@ -1,0 +1,1013 @@
+ID_Reserva,Destino,Tipo_Habitacion,Tipo_Huesped,Precio_Noche,Noches_Estadia,Gasto_Adicional,Estado_Reserva
+RES-7001,Manizales,Estándar,Extranjero,250000.0,8,80000.0,Completada
+RES-7002,Santa Rosa de Cabal,Estándar,Extranjero,120000.0,9,150000.0,Completada
+RES-7003,Manizales,Estándar,Extranjero,180000.0,6,230000.0,Completada
+RES-7004,Santa Rosa de Cabal,Glamping,Nacional,450000.0,8,80000.0,Completada
+RES-7005,Salamina,Suite,Nacional,250000.0,7,80000.0,Completada
+RES-7006,Filandia,Suite,Extranjero,450000.0,3,45000.0,Completada
+RES-7007,Filandia,Glamping,Extranjero,180000.0,8,150000.0,Completada
+RES-7008,Filandia,Estándar,Extranjero,120000.0,11,230000.0,Cancelada
+RES-7009,Manizales,Glamping,Corporativo,450000.0,9,45000.0,No Show
+RES-7010,Filandia,Glamping,Extranjero,180000.0,3,350000.0,Cancelada
+RES-7011,Manizales,Cabaña Campestre,Nacional,,3,80000.0,Completada
+RES-7012,Filandia,Glamping,Nacional,250000.0,2,80000.0,No Show
+RES-7013,Filandia,Glamping,Extranjero,600000.0,6,0.0,Cancelada
+RES-7014,Filandia,Glamping,Nacional,180000.0,1,45000.0,Cancelada
+RES-7015,Salento,Estándar,Nacional,120000.0,12,0.0,Cancelada
+RES-7016,Santa Rosa de Cabal,Estándar,Nacional,600000.0,1,45000.0,Completada
+RES-7017,Salamina,Estándar,Nacional,600000.0,7,45000.0,Completada
+RES-7018,Salamina,Estándar,Extranjero,120000.0,5,45000.0,Completada
+RES-7019,Santa Rosa de Cabal,Suite,Nacional,180000.0,10,80000.0,Completada
+RES-7020,Manizales,Suite,Nacional,320000.0,6,150000.0,Completada
+RES-7021,Salamina,Cabaña Campestre,Nacional,180000.0,5,80000.0,Completada
+RES-7022,Salento,Cabaña Campestre,Nacional,320000.0,9,80000.0,No Show
+RES-7023,Salamina,Estándar,Extranjero,250000.0,4,150000.0,Completada
+RES-7024,Salamina,Cabaña Campestre,Nacional,320000.0,10,80000.0,Completada
+RES-7025,Santa Rosa de Cabal,Glamping,Nacional,120000.0,11,0.0,Cancelada
+RES-7026,Salamina,Suite,Extranjero,450000.0,2,0.0,Completada
+RES-7027,Manizales,Cabaña Campestre,Nacional,180000.0,11,230000.0,Completada
+RES-7028,Salento,Estándar,Nacional,320000.0,6,0.0,No Show
+RES-7029,Salamina,Glamping,Nacional,180000.0,5,0.0,Completada
+RES-7030,Santa Rosa de Cabal,Cabaña Campestre,Nacional,250000.0,4,0.0,Completada
+RES-7031,Manizales,Estándar,Nacional,,7,0.0,Completada
+RES-7032,Manizales,Estándar,Extranjero,120000.0,10,0.0,Completada
+RES-7033,Filandia,Cabaña Campestre,Nacional,180000.0,1,0.0,Completada
+RES-7034,Santa Rosa de Cabal,Cabaña Campestre,Nacional,250000.0,6,,Completada
+RES-7035,Manizales,Glamping,Nacional,250000.0,8,150000.0,Completada
+RES-7036,Filandia,Cabaña Campestre,Nacional,180000.0,5,80000.0,Completada
+RES-7037,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,450000.0,12,230000.0,Cancelada
+RES-7038,Manizales,Suite,Corporativo,,6,150000.0,Completada
+RES-7039,Salento,Estándar,Extranjero,250000.0,3,0.0,Completada
+RES-7040,Salamina,Suite,Nacional,320000.0,12,45000.0,Completada
+RES-7041,Manizales,Suite,Nacional,320000.0,10,0.0,Completada
+RES-7042,Salento,Glamping,Nacional,450000.0,7,45000.0,Completada
+RES-7043,Filandia,Cabaña Campestre,Nacional,,1,230000.0,Completada
+RES-7044,Santa Rosa de Cabal,Estándar,Nacional,450000.0,8,0.0,Completada
+RES-7045,Manizales,Estándar,Nacional,320000.0,12,45000.0,Completada
+RES-7046,Filandia,Glamping,Nacional,250000.0,11,45000.0,Completada
+RES-7047,Filandia,Estándar,Extranjero,180000.0,3,80000.0,Completada
+RES-7048,Salamina,Suite,Nacional,120000.0,11,0.0,No Show
+RES-7049,Santa Rosa de Cabal,Estándar,Nacional,250000.0,8,230000.0,Completada
+RES-7050,Santa Rosa de Cabal,Suite,Nacional,320000.0,12,0.0,Cancelada
+RES-7051,Salento,Estándar,Nacional,250000.0,5,350000.0,Completada
+RES-7052,Salamina,Suite,Nacional,250000.0,2,0.0,Cancelada
+RES-7053,Manizales,Cabaña Campestre,Nacional,180000.0,1,150000.0,Cancelada
+RES-7054,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,250000.0,9,0.0,Cancelada
+RES-7055,Filandia,Glamping,Nacional,120000.0,9,150000.0,No Show
+RES-7056,Santa Rosa de Cabal,Cabaña Campestre,Nacional,,11,80000.0,Completada
+RES-7057,Salamina,Estándar,Nacional,120000.0,12,80000.0,Completada
+RES-7058,Filandia,Glamping,Nacional,450000.0,9,150000.0,Completada
+RES-7059,Salamina,Estándar,Extranjero,250000.0,10,80000.0,Completada
+RES-7060,Santa Rosa de Cabal,Suite,Nacional,250000.0,10,0.0,Completada
+RES-7061,Santa Rosa de Cabal,Glamping,Nacional,180000.0,5,0.0,Completada
+RES-7062,Manizales,Cabaña Campestre,Nacional,120000.0,8,0.0,Completada
+RES-7063,Santa Rosa de Cabal,Estándar,Extranjero,180000.0,11,0.0,Completada
+RES-7064,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,120000.0,12,230000.0,Cancelada
+RES-7065,Filandia,Glamping,Nacional,,8,0.0,Completada
+RES-7066,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,120000.0,9,,Completada
+RES-7067,Salamina,Suite,Nacional,180000.0,3,80000.0,Completada
+RES-7068,Salento,Glamping,Extranjero,450000.0,1,45000.0,Completada
+RES-7069,Santa Rosa de Cabal,Estándar,Extranjero,180000.0,1,,Completada
+RES-7070,Manizales,Estándar,Nacional,180000.0,6,150000.0,Completada
+RES-7071,Santa Rosa de Cabal,Suite,Extranjero,,7,,Completada
+RES-7072,Salamina,Suite,Extranjero,320000.0,12,150000.0,Completada
+RES-7073,Filandia,Suite,Nacional,120000.0,10,150000.0,Completada
+RES-7074,Salento,Glamping,Extranjero,180000.0,8,80000.0,Completada
+RES-7075,Salamina,Estándar,Extranjero,180000.0,4,150000.0,Completada
+RES-7076,Salamina,Glamping,Nacional,120000.0,10,230000.0,Completada
+RES-7077,Salamina,Estándar,Nacional,180000.0,9,80000.0,Completada
+RES-7078,Salamina,Glamping,Nacional,120000.0,8,80000.0,Completada
+RES-7079,Filandia,Cabaña Campestre,Extranjero,600000.0,5,80000.0,Completada
+RES-7080,Salento,Glamping,Nacional,180000.0,5,0.0,Completada
+RES-7081,Manizales,Suite,Corporativo,180000.0,8,80000.0,Completada
+RES-7082,Salamina,Suite,Extranjero,450000.0,7,150000.0,Completada
+RES-7083,Manizales,Cabaña Campestre,Nacional,180000.0,9,80000.0,Completada
+RES-7084,Manizales,Glamping,Extranjero,120000.0,3,45000.0,Completada
+RES-7085,Filandia,Glamping,Extranjero,180000.0,12,80000.0,Cancelada
+RES-7086,Santa Rosa de Cabal,Cabaña Campestre,Nacional,180000.0,6,0.0,Completada
+RES-7087,Manizales,Cabaña Campestre,Nacional,600000.0,9,230000.0,Completada
+RES-7088,Filandia,Estándar,Extranjero,250000.0,7,0.0,Completada
+RES-7089,Filandia,Estándar,Extranjero,180000.0,4,45000.0,Completada
+RES-7090,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,250000.0,2,150000.0,Completada
+RES-7091,Filandia,Glamping,Nacional,180000.0,3,80000.0,Completada
+RES-7092,Salento,Estándar,Nacional,450000.0,8,45000.0,Completada
+RES-7093,Manizales,Cabaña Campestre,Nacional,250000.0,4,0.0,Cancelada
+RES-7094,Salento,Suite,Extranjero,180000.0,8,,Completada
+RES-7095,Salamina,Estándar,Extranjero,600000.0,2,350000.0,Completada
+RES-7096,Salamina,Glamping,Extranjero,180000.0,4,80000.0,Completada
+RES-7097,Salamina,Estándar,Nacional,450000.0,9,350000.0,Completada
+RES-7098,Salamina,Glamping,Corporativo,,6,80000.0,Completada
+RES-7099,Salento,Cabaña Campestre,Nacional,180000.0,8,0.0,Completada
+RES-7100,Filandia,Suite,Corporativo,320000.0,2,0.0,Completada
+RES-7101,Salento,Estándar,Nacional,320000.0,6,0.0,Completada
+RES-7102,Filandia,Glamping,Extranjero,180000.0,8,45000.0,Completada
+RES-7103,Salento,Cabaña Campestre,Nacional,,5,230000.0,Completada
+RES-7104,Salento,Glamping,Extranjero,250000.0,8,80000.0,Cancelada
+RES-7105,Santa Rosa de Cabal,Estándar,Nacional,320000.0,7,,Cancelada
+RES-7106,Salento,Estándar,Nacional,180000.0,7,0.0,Completada
+RES-7107,Salamina,Cabaña Campestre,Extranjero,120000.0,11,45000.0,Completada
+RES-7108,Santa Rosa de Cabal,Suite,Extranjero,450000.0,4,80000.0,Completada
+RES-7109,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,,8,80000.0,Completada
+RES-7110,Salamina,Suite,Nacional,120000.0,8,0.0,Completada
+RES-7111,Filandia,Glamping,Nacional,320000.0,10,0.0,Completada
+RES-7112,Salamina,Suite,Nacional,250000.0,10,45000.0,Completada
+RES-7113,Salamina,Suite,Extranjero,120000.0,11,45000.0,Completada
+RES-7114,Manizales,Cabaña Campestre,Extranjero,320000.0,9,0.0,Completada
+RES-7115,Salamina,Suite,Nacional,180000.0,2,45000.0,Completada
+RES-7116,Salamina,Cabaña Campestre,Extranjero,180000.0,4,45000.0,Completada
+RES-7117,Manizales,Estándar,Nacional,120000.0,1,0.0,Completada
+RES-7118,Salamina,Suite,Extranjero,250000.0,9,45000.0,Completada
+RES-7119,Manizales,Glamping,Nacional,120000.0,10,45000.0,Completada
+RES-7120,Salamina,Cabaña Campestre,Nacional,250000.0,12,,Completada
+RES-7121,Filandia,Glamping,Nacional,180000.0,2,45000.0,Cancelada
+RES-7122,Manizales,Estándar,Nacional,180000.0,8,80000.0,Completada
+RES-7123,Salento,Suite,Nacional,120000.0,8,350000.0,Cancelada
+RES-7124,Santa Rosa de Cabal,Suite,Nacional,120000.0,9,80000.0,Completada
+RES-7125,Filandia,Estándar,Nacional,120000.0,3,150000.0,Completada
+RES-7126,Salamina,Estándar,Nacional,250000.0,9,150000.0,Completada
+RES-7127,Manizales,Suite,Extranjero,120000.0,11,0.0,Completada
+RES-7128,Salamina,Cabaña Campestre,Nacional,450000.0,2,0.0,Cancelada
+RES-7129,Salamina,Glamping,Extranjero,180000.0,2,150000.0,Completada
+RES-7130,Salamina,Suite,Extranjero,,11,150000.0,Completada
+RES-7131,Salamina,Estándar,Nacional,450000.0,11,150000.0,Cancelada
+RES-7132,Salamina,Estándar,Nacional,120000.0,8,80000.0,Completada
+RES-7133,Filandia,Glamping,Nacional,,9,230000.0,Completada
+RES-7134,Manizales,Glamping,Nacional,180000.0,5,80000.0,Cancelada
+RES-7135,Salamina,Estándar,Corporativo,250000.0,5,0.0,Completada
+RES-7136,Santa Rosa de Cabal,Glamping,Nacional,120000.0,4,0.0,No Show
+RES-7137,Manizales,Glamping,Nacional,250000.0,11,350000.0,Completada
+RES-7138,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,180000.0,5,80000.0,Completada
+RES-7139,Salento,Cabaña Campestre,Nacional,250000.0,9,150000.0,Completada
+RES-7140,Salamina,Suite,Corporativo,120000.0,9,0.0,Completada
+RES-7141,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,450000.0,10,80000.0,Completada
+RES-7142,Salamina,Suite,Nacional,450000.0,7,80000.0,Completada
+RES-7143,Salamina,Suite,Extranjero,180000.0,1,150000.0,Completada
+RES-7144,Salamina,Estándar,Nacional,120000.0,5,150000.0,Completada
+RES-7145,Manizales,Estándar,Nacional,250000.0,7,0.0,Completada
+RES-7146,Salento,Suite,Nacional,600000.0,11,0.0,Completada
+RES-7147,Santa Rosa de Cabal,Glamping,Extranjero,120000.0,1,0.0,Completada
+RES-7148,Salento,Estándar,Corporativo,450000.0,4,230000.0,Completada
+RES-7149,Santa Rosa de Cabal,Estándar,Nacional,180000.0,4,230000.0,Completada
+RES-7150,Manizales,Glamping,Nacional,,10,0.0,Completada
+RES-7151,Filandia,Estándar,Nacional,180000.0,6,80000.0,Cancelada
+RES-7152,Filandia,Estándar,Nacional,180000.0,7,,Completada
+RES-7153,Manizales,Suite,Extranjero,250000.0,3,,Cancelada
+RES-7154,Santa Rosa de Cabal,Suite,Nacional,180000.0,10,150000.0,No Show
+RES-7155,Manizales,Cabaña Campestre,Nacional,450000.0,4,,Completada
+RES-7156,Salento,Estándar,Extranjero,250000.0,7,150000.0,Completada
+RES-7157,Salamina,Cabaña Campestre,Extranjero,120000.0,6,0.0,Completada
+RES-7158,Salamina,Estándar,Extranjero,450000.0,6,150000.0,Completada
+RES-7159,Manizales,Estándar,Nacional,180000.0,10,230000.0,Completada
+RES-7160,Manizales,Estándar,Extranjero,320000.0,6,,Completada
+RES-7161,Santa Rosa de Cabal,Estándar,Nacional,180000.0,6,230000.0,Completada
+RES-7162,Salento,Suite,Extranjero,,4,45000.0,Completada
+RES-7163,Filandia,Cabaña Campestre,Nacional,250000.0,2,0.0,Cancelada
+RES-7164,Salento,Suite,Nacional,600000.0,10,350000.0,No Show
+RES-7165,Filandia,Glamping,Nacional,180000.0,4,45000.0,Completada
+RES-7166,Filandia,Cabaña Campestre,Extranjero,120000.0,2,150000.0,Completada
+RES-7167,Santa Rosa de Cabal,Cabaña Campestre,Nacional,120000.0,10,45000.0,No Show
+RES-7168,Salento,Glamping,Nacional,320000.0,6,150000.0,Cancelada
+RES-7169,Salento,Cabaña Campestre,Extranjero,450000.0,1,150000.0,Completada
+RES-7170,Filandia,Cabaña Campestre,Extranjero,250000.0,1,45000.0,Completada
+RES-7171,Santa Rosa de Cabal,Cabaña Campestre,Nacional,320000.0,11,45000.0,Completada
+RES-7172,Manizales,Cabaña Campestre,Nacional,450000.0,11,350000.0,Completada
+RES-7173,Filandia,Glamping,Nacional,180000.0,11,45000.0,Completada
+RES-7174,Salento,Glamping,Nacional,180000.0,9,0.0,Cancelada
+RES-7175,Filandia,Suite,Nacional,180000.0,3,150000.0,Completada
+RES-7176,Salamina,Suite,Extranjero,250000.0,11,45000.0,Completada
+RES-7177,Salamina,Cabaña Campestre,Nacional,120000.0,10,0.0,Completada
+RES-7178,Salamina,Glamping,Nacional,250000.0,4,150000.0,Completada
+RES-7179,Salento,Glamping,Extranjero,250000.0,2,0.0,Completada
+RES-7180,Santa Rosa de Cabal,Glamping,Extranjero,600000.0,11,230000.0,Cancelada
+RES-7181,Santa Rosa de Cabal,Suite,Nacional,250000.0,11,80000.0,Completada
+RES-7182,Filandia,Suite,Nacional,250000.0,1,45000.0,Completada
+RES-7183,Salamina,Estándar,Nacional,450000.0,2,,Completada
+RES-7184,Santa Rosa de Cabal,Cabaña Campestre,Nacional,120000.0,7,45000.0,Completada
+RES-7185,Salento,Estándar,Nacional,180000.0,10,230000.0,Completada
+RES-7186,Manizales,Glamping,Nacional,250000.0,9,80000.0,Cancelada
+RES-7187,Manizales,Cabaña Campestre,Nacional,320000.0,7,0.0,Completada
+RES-7188,Manizales,Estándar,Extranjero,120000.0,9,45000.0,Completada
+RES-7189,Manizales,Estándar,Nacional,120000.0,5,80000.0,Completada
+RES-7190,Salamina,Suite,Extranjero,450000.0,6,0.0,Cancelada
+RES-7191,Manizales,Cabaña Campestre,Extranjero,180000.0,7,80000.0,Cancelada
+RES-7192,Santa Rosa de Cabal,Cabaña Campestre,Nacional,600000.0,10,45000.0,Completada
+RES-7193,Santa Rosa de Cabal,Suite,Extranjero,250000.0,9,45000.0,Completada
+RES-7194,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,320000.0,2,150000.0,Cancelada
+RES-7195,Salamina,Cabaña Campestre,Nacional,250000.0,9,0.0,Completada
+RES-7196,Filandia,Cabaña Campestre,Nacional,180000.0,3,150000.0,No Show
+RES-7197,Santa Rosa de Cabal,Suite,Nacional,250000.0,3,45000.0,Completada
+RES-7198,Filandia,Cabaña Campestre,Nacional,120000.0,4,45000.0,Completada
+RES-7199,Santa Rosa de Cabal,Glamping,Nacional,250000.0,2,230000.0,Completada
+RES-7200,Salamina,Glamping,Extranjero,250000.0,2,0.0,Completada
+RES-7201,Salamina,Estándar,Nacional,180000.0,5,150000.0,Completada
+RES-7202,Santa Rosa de Cabal,Glamping,Nacional,,8,0.0,Completada
+RES-7203,Salento,Estándar,Nacional,120000.0,7,45000.0,Completada
+RES-7204,Salento,Glamping,Nacional,120000.0,4,80000.0,Cancelada
+RES-7205,Manizales,Suite,Extranjero,180000.0,3,150000.0,Completada
+RES-7206,Santa Rosa de Cabal,Cabaña Campestre,Nacional,320000.0,2,230000.0,Completada
+RES-7207,Santa Rosa de Cabal,Estándar,Extranjero,180000.0,7,80000.0,Completada
+RES-7208,Manizales,Cabaña Campestre,Nacional,450000.0,4,150000.0,Completada
+RES-7209,Salento,Estándar,Nacional,180000.0,9,350000.0,Completada
+RES-7210,Salamina,Glamping,Nacional,180000.0,8,0.0,Completada
+RES-7211,Santa Rosa de Cabal,Cabaña Campestre,Nacional,250000.0,9,45000.0,Completada
+RES-7212,Filandia,Estándar,Nacional,450000.0,6,80000.0,Completada
+RES-7213,Santa Rosa de Cabal,Suite,Extranjero,180000.0,11,80000.0,Completada
+RES-7214,Manizales,Cabaña Campestre,Corporativo,320000.0,12,,Completada
+RES-7215,Manizales,Cabaña Campestre,Nacional,180000.0,2,0.0,Completada
+RES-7216,Santa Rosa de Cabal,Cabaña Campestre,Nacional,600000.0,9,0.0,Completada
+RES-7217,Salamina,Estándar,Extranjero,120000.0,6,0.0,Completada
+RES-7218,Santa Rosa de Cabal,Cabaña Campestre,Nacional,450000.0,3,80000.0,Completada
+RES-7219,Manizales,Estándar,Nacional,450000.0,11,80000.0,Completada
+RES-7220,Manizales,Glamping,Nacional,120000.0,5,150000.0,Completada
+RES-7221,Filandia,Cabaña Campestre,Extranjero,250000.0,9,,Completada
+RES-7222,Manizales,Estándar,Nacional,250000.0,4,45000.0,Completada
+RES-7223,Salamina,Glamping,Nacional,320000.0,7,0.0,Completada
+RES-7224,Santa Rosa de Cabal,Estándar,Extranjero,250000.0,1,80000.0,Completada
+RES-7225,Salento,Suite,Nacional,450000.0,5,45000.0,Completada
+RES-7226,Manizales,Suite,Extranjero,,2,,Completada
+RES-7227,Manizales,Glamping,Extranjero,250000.0,9,230000.0,Completada
+RES-7228,Santa Rosa de Cabal,Glamping,Corporativo,180000.0,5,80000.0,No Show
+RES-7229,Filandia,Estándar,Nacional,600000.0,4,45000.0,Completada
+RES-7230,Salamina,Suite,Extranjero,120000.0,10,0.0,Cancelada
+RES-7231,Salamina,Cabaña Campestre,Nacional,180000.0,7,45000.0,Completada
+RES-7232,Santa Rosa de Cabal,Suite,Corporativo,120000.0,10,0.0,Completada
+RES-7233,Salamina,Cabaña Campestre,Extranjero,450000.0,10,80000.0,Completada
+RES-7234,Salento,Estándar,Extranjero,600000.0,3,45000.0,Cancelada
+RES-7235,Santa Rosa de Cabal,Cabaña Campestre,Nacional,180000.0,4,0.0,Cancelada
+RES-7236,Salento,Glamping,Corporativo,180000.0,6,,Cancelada
+RES-7237,Salamina,Estándar,Nacional,320000.0,10,45000.0,Completada
+RES-7238,Filandia,Suite,Extranjero,320000.0,11,0.0,Cancelada
+RES-7239,Filandia,Cabaña Campestre,Corporativo,,11,45000.0,Completada
+RES-7240,Salento,Suite,Nacional,250000.0,1,0.0,Completada
+RES-7241,Filandia,Estándar,Extranjero,120000.0,1,150000.0,Completada
+RES-7242,Santa Rosa de Cabal,Estándar,Corporativo,320000.0,9,80000.0,Completada
+RES-7243,Santa Rosa de Cabal,Suite,Extranjero,320000.0,7,0.0,Completada
+RES-7244,Salento,Suite,Nacional,250000.0,9,150000.0,Completada
+RES-7245,Salamina,Glamping,Extranjero,180000.0,9,80000.0,Cancelada
+RES-7246,Filandia,Cabaña Campestre,Nacional,180000.0,11,80000.0,Completada
+RES-7247,Manizales,Glamping,Extranjero,180000.0,4,80000.0,Cancelada
+RES-7248,Salento,Suite,Extranjero,120000.0,5,80000.0,Completada
+RES-7249,Manizales,Cabaña Campestre,Nacional,180000.0,10,150000.0,Completada
+RES-7250,Salento,Cabaña Campestre,Extranjero,120000.0,3,,Completada
+RES-7251,Filandia,Estándar,Corporativo,,11,45000.0,Cancelada
+RES-7252,Salamina,Cabaña Campestre,Extranjero,250000.0,4,0.0,Completada
+RES-7253,Filandia,Estándar,Nacional,320000.0,7,230000.0,Cancelada
+RES-7254,Santa Rosa de Cabal,Estándar,Corporativo,180000.0,8,80000.0,Completada
+RES-7255,Santa Rosa de Cabal,Estándar,Nacional,120000.0,9,150000.0,Completada
+RES-7256,Filandia,Glamping,Extranjero,450000.0,11,0.0,No Show
+RES-7257,Santa Rosa de Cabal,Suite,Nacional,450000.0,8,150000.0,Completada
+RES-7258,Filandia,Suite,Extranjero,250000.0,3,80000.0,Completada
+RES-7259,Filandia,Suite,Extranjero,180000.0,11,45000.0,Completada
+RES-7260,Filandia,Suite,Nacional,120000.0,6,150000.0,Completada
+RES-7261,Santa Rosa de Cabal,Estándar,Nacional,600000.0,8,230000.0,Completada
+RES-7262,Manizales,Suite,Nacional,250000.0,12,0.0,Completada
+RES-7263,Salento,Suite,Extranjero,180000.0,4,230000.0,Completada
+RES-7264,Santa Rosa de Cabal,Glamping,Extranjero,600000.0,5,150000.0,No Show
+RES-7265,Manizales,Suite,Extranjero,180000.0,7,,Cancelada
+RES-7266,Salento,Cabaña Campestre,Extranjero,320000.0,1,80000.0,Cancelada
+RES-7267,Salamina,Glamping,Nacional,600000.0,8,45000.0,No Show
+RES-7268,Manizales,Suite,Nacional,250000.0,1,80000.0,Completada
+RES-7269,Santa Rosa de Cabal,Cabaña Campestre,Nacional,320000.0,11,150000.0,Completada
+RES-7270,Filandia,Glamping,Nacional,180000.0,12,0.0,Completada
+RES-7271,Salento,Glamping,Nacional,600000.0,2,45000.0,Completada
+RES-7272,Salento,Glamping,Corporativo,250000.0,5,0.0,Completada
+RES-7273,Manizales,Estándar,Nacional,600000.0,11,80000.0,Completada
+RES-7274,Salamina,Estándar,Extranjero,250000.0,2,150000.0,Completada
+RES-7275,Salento,Suite,Extranjero,120000.0,11,45000.0,Cancelada
+RES-7276,Manizales,Suite,Corporativo,450000.0,6,0.0,Completada
+RES-7277,Salento,Cabaña Campestre,Nacional,250000.0,12,45000.0,No Show
+RES-7278,Manizales,Cabaña Campestre,Nacional,120000.0,7,0.0,Completada
+RES-7279,Salento,Suite,Extranjero,120000.0,11,,Cancelada
+RES-7280,Filandia,Suite,Nacional,120000.0,8,80000.0,Completada
+RES-7281,Salento,Glamping,Nacional,180000.0,10,80000.0,Completada
+RES-7282,Filandia,Cabaña Campestre,Nacional,180000.0,7,80000.0,Completada
+RES-7283,Salamina,Cabaña Campestre,Nacional,450000.0,9,45000.0,Completada
+RES-7284,Manizales,Estándar,Nacional,180000.0,9,150000.0,Completada
+RES-7285,Filandia,Glamping,Nacional,180000.0,10,80000.0,Completada
+RES-7286,Santa Rosa de Cabal,Glamping,Nacional,250000.0,2,230000.0,Completada
+RES-7287,Salamina,Glamping,Nacional,600000.0,1,,Completada
+RES-7288,Santa Rosa de Cabal,Cabaña Campestre,Nacional,180000.0,2,80000.0,Completada
+RES-7289,Salamina,Cabaña Campestre,Extranjero,250000.0,12,0.0,Completada
+RES-7290,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,250000.0,10,350000.0,Completada
+RES-7291,Manizales,Suite,Nacional,450000.0,3,150000.0,Completada
+RES-7292,Filandia,Suite,Nacional,180000.0,1,0.0,Completada
+RES-7293,Manizales,Cabaña Campestre,Nacional,180000.0,4,230000.0,Completada
+RES-7294,Salento,Suite,Nacional,250000.0,2,350000.0,Cancelada
+RES-7295,Manizales,Glamping,Nacional,320000.0,9,0.0,Completada
+RES-7296,Salamina,Glamping,Extranjero,180000.0,6,45000.0,Completada
+RES-7297,Salamina,Estándar,Nacional,250000.0,9,45000.0,Completada
+RES-7298,Filandia,Estándar,Nacional,320000.0,9,0.0,Completada
+RES-7299,Salento,Estándar,Nacional,320000.0,7,150000.0,Completada
+RES-7300,Manizales,Suite,Extranjero,180000.0,11,0.0,Completada
+RES-7301,Manizales,Estándar,Nacional,,9,0.0,Completada
+RES-7302,Santa Rosa de Cabal,Estándar,Corporativo,320000.0,4,45000.0,Completada
+RES-7303,Salamina,Suite,Extranjero,120000.0,5,80000.0,Completada
+RES-7304,Filandia,Cabaña Campestre,Nacional,120000.0,12,45000.0,Completada
+RES-7305,Filandia,Estándar,Nacional,250000.0,1,80000.0,No Show
+RES-7306,Filandia,Suite,Nacional,320000.0,7,80000.0,Completada
+RES-7307,Salamina,Cabaña Campestre,Extranjero,120000.0,9,0.0,Cancelada
+RES-7308,Santa Rosa de Cabal,Suite,Nacional,320000.0,6,45000.0,Completada
+RES-7309,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,320000.0,9,0.0,Completada
+RES-7310,Salento,Estándar,Nacional,450000.0,8,80000.0,Cancelada
+RES-7311,Manizales,Suite,Corporativo,320000.0,7,0.0,Completada
+RES-7312,Salamina,Cabaña Campestre,Nacional,320000.0,2,230000.0,Completada
+RES-7313,Salamina,Estándar,Nacional,450000.0,1,150000.0,Cancelada
+RES-7314,Manizales,Glamping,Extranjero,600000.0,1,230000.0,Completada
+RES-7315,Manizales,Cabaña Campestre,Extranjero,450000.0,1,150000.0,Completada
+RES-7316,Salamina,Glamping,Extranjero,450000.0,7,150000.0,Completada
+RES-7317,Filandia,Estándar,Extranjero,320000.0,5,,Completada
+RES-7318,Manizales,Estándar,Extranjero,320000.0,2,230000.0,Completada
+RES-7319,Filandia,Suite,Corporativo,180000.0,4,0.0,No Show
+RES-7320,Salamina,Estándar,Nacional,320000.0,10,45000.0,Completada
+RES-7321,Manizales,Estándar,Extranjero,250000.0,12,0.0,Completada
+RES-7322,Santa Rosa de Cabal,Cabaña Campestre,Nacional,320000.0,1,150000.0,Completada
+RES-7323,Salamina,Glamping,Extranjero,320000.0,7,0.0,Cancelada
+RES-7324,Filandia,Glamping,Nacional,180000.0,7,0.0,Completada
+RES-7325,Filandia,Cabaña Campestre,Nacional,120000.0,3,80000.0,Completada
+RES-7326,Salento,Estándar,Extranjero,180000.0,4,0.0,No Show
+RES-7327,Filandia,Cabaña Campestre,Nacional,,8,230000.0,No Show
+RES-7328,Salamina,Estándar,Nacional,320000.0,12,150000.0,Completada
+RES-7329,Filandia,Suite,Extranjero,320000.0,5,45000.0,Completada
+RES-7330,Salento,Cabaña Campestre,Nacional,180000.0,3,0.0,Completada
+RES-7331,Filandia,Glamping,Corporativo,120000.0,3,45000.0,Completada
+RES-7332,Salento,Suite,Nacional,120000.0,10,150000.0,No Show
+RES-7333,Salamina,Suite,Nacional,250000.0,4,45000.0,Completada
+RES-7334,Salento,Estándar,Extranjero,180000.0,4,0.0,Cancelada
+RES-7335,Manizales,Suite,Nacional,180000.0,7,45000.0,Cancelada
+RES-7336,Filandia,Suite,Extranjero,120000.0,11,150000.0,Cancelada
+RES-7337,Filandia,Suite,Nacional,320000.0,8,45000.0,Completada
+RES-7338,Filandia,Glamping,Corporativo,180000.0,3,350000.0,Completada
+RES-7339,Santa Rosa de Cabal,Glamping,Nacional,320000.0,5,45000.0,Completada
+RES-7340,Filandia,Glamping,Nacional,180000.0,11,230000.0,Completada
+RES-7341,Santa Rosa de Cabal,Glamping,Extranjero,320000.0,8,0.0,Cancelada
+RES-7342,Manizales,Cabaña Campestre,Nacional,120000.0,6,45000.0,No Show
+RES-7343,Salamina,Suite,Nacional,320000.0,5,230000.0,Completada
+RES-7344,Santa Rosa de Cabal,Suite,Extranjero,250000.0,11,80000.0,Completada
+RES-7345,Salento,Estándar,Nacional,450000.0,1,0.0,No Show
+RES-7346,Salamina,Glamping,Extranjero,250000.0,6,45000.0,Completada
+RES-7347,Filandia,Glamping,Nacional,320000.0,12,230000.0,Completada
+RES-7348,Manizales,Suite,Nacional,600000.0,8,45000.0,Completada
+RES-7349,Filandia,Glamping,Nacional,180000.0,4,0.0,Completada
+RES-7350,Filandia,Cabaña Campestre,Corporativo,320000.0,12,80000.0,Completada
+RES-7351,Filandia,Glamping,Extranjero,450000.0,3,150000.0,Completada
+RES-7352,Salento,Cabaña Campestre,Extranjero,120000.0,11,80000.0,Cancelada
+RES-7353,Manizales,Estándar,Nacional,250000.0,4,0.0,Completada
+RES-7354,Filandia,Glamping,Nacional,180000.0,8,150000.0,Completada
+RES-7355,Manizales,Cabaña Campestre,Extranjero,250000.0,10,0.0,Completada
+RES-7356,Salamina,Suite,Corporativo,250000.0,5,150000.0,Cancelada
+RES-7357,Filandia,Suite,Extranjero,320000.0,6,0.0,Completada
+RES-7358,Salamina,Glamping,Nacional,180000.0,5,0.0,Completada
+RES-7359,Salamina,Cabaña Campestre,Extranjero,450000.0,2,230000.0,Completada
+RES-7360,Filandia,Suite,Extranjero,320000.0,4,0.0,Cancelada
+RES-7361,Filandia,Cabaña Campestre,Corporativo,120000.0,12,80000.0,No Show
+RES-7362,Santa Rosa de Cabal,Estándar,Extranjero,180000.0,6,45000.0,Cancelada
+RES-7363,Salento,Estándar,Nacional,120000.0,4,80000.0,Completada
+RES-7364,Manizales,Glamping,Nacional,320000.0,2,350000.0,Completada
+RES-7365,Salamina,Cabaña Campestre,Nacional,,9,45000.0,Cancelada
+RES-7366,Salento,Cabaña Campestre,Nacional,450000.0,5,80000.0,Completada
+RES-7367,Manizales,Cabaña Campestre,Nacional,320000.0,3,150000.0,Completada
+RES-7368,Filandia,Glamping,Nacional,120000.0,2,0.0,Completada
+RES-7369,Santa Rosa de Cabal,Estándar,Nacional,450000.0,6,80000.0,Completada
+RES-7370,Manizales,Glamping,Nacional,180000.0,12,45000.0,Completada
+RES-7371,Salento,Suite,Nacional,120000.0,6,0.0,No Show
+RES-7372,Manizales,Cabaña Campestre,Nacional,180000.0,6,230000.0,Completada
+RES-7373,Santa Rosa de Cabal,Glamping,Nacional,180000.0,3,45000.0,Completada
+RES-7374,Salamina,Estándar,Extranjero,120000.0,4,150000.0,Completada
+RES-7375,Salamina,Glamping,Nacional,180000.0,8,150000.0,Cancelada
+RES-7376,Santa Rosa de Cabal,Glamping,Extranjero,320000.0,11,150000.0,Completada
+RES-7377,Salento,Suite,Extranjero,120000.0,1,230000.0,Completada
+RES-7378,Santa Rosa de Cabal,Suite,Extranjero,120000.0,7,45000.0,Completada
+RES-7379,Manizales,Cabaña Campestre,Corporativo,180000.0,9,150000.0,No Show
+RES-7380,Manizales,Suite,Corporativo,180000.0,10,80000.0,Completada
+RES-7381,Santa Rosa de Cabal,Cabaña Campestre,Nacional,320000.0,11,45000.0,Completada
+RES-7382,Santa Rosa de Cabal,Glamping,Extranjero,120000.0,10,0.0,Completada
+RES-7383,Salamina,Cabaña Campestre,Extranjero,450000.0,7,80000.0,Completada
+RES-7384,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,120000.0,5,0.0,Completada
+RES-7385,Santa Rosa de Cabal,Glamping,Nacional,250000.0,12,0.0,Completada
+RES-7386,Santa Rosa de Cabal,Estándar,Nacional,180000.0,4,0.0,Completada
+RES-7387,Salento,Glamping,Extranjero,120000.0,10,150000.0,Completada
+RES-7388,Manizales,Glamping,Extranjero,450000.0,6,0.0,Completada
+RES-7389,Manizales,Suite,Nacional,180000.0,1,45000.0,Cancelada
+RES-7390,Salamina,Glamping,Extranjero,250000.0,4,0.0,Completada
+RES-7391,Manizales,Suite,Nacional,250000.0,7,0.0,Completada
+RES-7392,Santa Rosa de Cabal,Suite,Extranjero,120000.0,7,150000.0,Completada
+RES-7393,Salento,Estándar,Nacional,180000.0,4,230000.0,Completada
+RES-7394,Manizales,Glamping,Extranjero,,6,45000.0,Completada
+RES-7395,Santa Rosa de Cabal,Glamping,Nacional,250000.0,4,0.0,Completada
+RES-7396,Manizales,Estándar,Extranjero,250000.0,4,45000.0,Cancelada
+RES-7397,Salamina,Estándar,Extranjero,180000.0,4,230000.0,Completada
+RES-7398,Santa Rosa de Cabal,Estándar,Extranjero,250000.0,6,80000.0,No Show
+RES-7399,Salento,Suite,Extranjero,120000.0,2,45000.0,Completada
+RES-7400,Santa Rosa de Cabal,Estándar,Extranjero,450000.0,2,0.0,Completada
+RES-7401,Santa Rosa de Cabal,Suite,Extranjero,320000.0,5,0.0,Cancelada
+RES-7402,Salento,Estándar,Extranjero,320000.0,4,80000.0,Completada
+RES-7403,Filandia,Glamping,Nacional,320000.0,4,80000.0,Completada
+RES-7404,Santa Rosa de Cabal,Glamping,Nacional,250000.0,3,45000.0,Cancelada
+RES-7405,Manizales,Suite,Nacional,320000.0,1,45000.0,Completada
+RES-7406,Salamina,Suite,Extranjero,120000.0,12,80000.0,Completada
+RES-7407,Manizales,Estándar,Extranjero,180000.0,9,150000.0,Completada
+RES-7408,Salamina,Glamping,Extranjero,250000.0,11,45000.0,Cancelada
+RES-7409,Manizales,Estándar,Extranjero,450000.0,1,0.0,No Show
+RES-7410,Santa Rosa de Cabal,Estándar,Extranjero,450000.0,3,150000.0,Completada
+RES-7411,Salento,Cabaña Campestre,Nacional,450000.0,1,230000.0,Completada
+RES-7412,Manizales,Cabaña Campestre,Nacional,180000.0,4,45000.0,Completada
+RES-7413,Salento,Estándar,Nacional,,12,,Completada
+RES-7414,Salento,Suite,Corporativo,320000.0,10,230000.0,Completada
+RES-7415,Salamina,Suite,Nacional,450000.0,2,,No Show
+RES-7416,Salento,Estándar,Nacional,180000.0,3,150000.0,Cancelada
+RES-7417,Salento,Suite,Extranjero,320000.0,4,,No Show
+RES-7418,Salento,Glamping,Nacional,450000.0,4,80000.0,Cancelada
+RES-7419,Filandia,Estándar,Extranjero,250000.0,5,45000.0,Completada
+RES-7420,Santa Rosa de Cabal,Estándar,Nacional,180000.0,12,230000.0,Completada
+RES-7421,Filandia,Glamping,Nacional,120000.0,6,80000.0,Completada
+RES-7422,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,320000.0,8,230000.0,Completada
+RES-7423,Manizales,Suite,Nacional,120000.0,7,45000.0,No Show
+RES-7424,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,180000.0,5,230000.0,Completada
+RES-7425,Salento,Cabaña Campestre,Nacional,180000.0,1,0.0,Completada
+RES-7426,Salamina,Glamping,Extranjero,180000.0,4,80000.0,Completada
+RES-7427,Filandia,Cabaña Campestre,Nacional,320000.0,2,150000.0,Completada
+RES-7428,Manizales,Cabaña Campestre,Nacional,320000.0,3,45000.0,Completada
+RES-7429,Manizales,Glamping,Nacional,180000.0,12,45000.0,Cancelada
+RES-7430,Santa Rosa de Cabal,Glamping,Nacional,250000.0,7,150000.0,Completada
+RES-7431,Salento,Cabaña Campestre,Extranjero,,5,45000.0,Completada
+RES-7432,Filandia,Glamping,Nacional,180000.0,8,0.0,Completada
+RES-7433,Manizales,Cabaña Campestre,Nacional,450000.0,5,80000.0,Completada
+RES-7434,Salento,Estándar,Nacional,600000.0,10,45000.0,Completada
+RES-7435,Salamina,Estándar,Extranjero,120000.0,7,0.0,Cancelada
+RES-7436,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,250000.0,2,80000.0,Cancelada
+RES-7437,Manizales,Suite,Nacional,120000.0,11,230000.0,Completada
+RES-7438,Filandia,Suite,Nacional,250000.0,7,45000.0,Completada
+RES-7439,Filandia,Suite,Nacional,600000.0,8,150000.0,Completada
+RES-7440,Salento,Suite,Nacional,180000.0,6,45000.0,Completada
+RES-7441,Salamina,Estándar,Nacional,250000.0,12,,Completada
+RES-7442,Santa Rosa de Cabal,Cabaña Campestre,Nacional,450000.0,9,150000.0,Completada
+RES-7443,Manizales,Suite,Nacional,250000.0,10,80000.0,Completada
+RES-7444,Manizales,Estándar,Extranjero,600000.0,3,150000.0,Cancelada
+RES-7445,Manizales,Suite,Extranjero,250000.0,2,45000.0,Completada
+RES-7446,Filandia,Suite,Nacional,320000.0,1,80000.0,Completada
+RES-7447,Manizales,Estándar,Extranjero,180000.0,6,45000.0,Cancelada
+RES-7448,Salamina,Estándar,Extranjero,120000.0,12,0.0,No Show
+RES-7449,Filandia,Estándar,Corporativo,120000.0,3,80000.0,Completada
+RES-7450,Salento,Glamping,Nacional,180000.0,6,230000.0,Completada
+RES-7451,Manizales,Cabaña Campestre,Nacional,120000.0,4,45000.0,Completada
+RES-7452,Manizales,Suite,Nacional,600000.0,2,80000.0,Completada
+RES-7453,Filandia,Estándar,Extranjero,120000.0,7,0.0,Cancelada
+RES-7454,Salento,Estándar,Corporativo,120000.0,1,350000.0,Completada
+RES-7455,Santa Rosa de Cabal,Suite,Nacional,320000.0,10,230000.0,Completada
+RES-7456,Santa Rosa de Cabal,Cabaña Campestre,Nacional,180000.0,9,230000.0,Cancelada
+RES-7457,Filandia,Estándar,Extranjero,180000.0,5,45000.0,Completada
+RES-7458,Salamina,Suite,Extranjero,320000.0,11,0.0,No Show
+RES-7459,Salento,Suite,Nacional,250000.0,12,150000.0,Cancelada
+RES-7460,Salamina,Cabaña Campestre,Nacional,180000.0,7,150000.0,Completada
+RES-7461,Manizales,Glamping,Extranjero,250000.0,4,150000.0,Completada
+RES-7462,Santa Rosa de Cabal,Glamping,Corporativo,320000.0,8,230000.0,Completada
+RES-7463,Manizales,Suite,Nacional,320000.0,2,230000.0,No Show
+RES-7464,Filandia,Estándar,Corporativo,320000.0,8,150000.0,Cancelada
+RES-7465,Manizales,Suite,Extranjero,320000.0,7,150000.0,Completada
+RES-7466,Manizales,Suite,Extranjero,180000.0,9,80000.0,Cancelada
+RES-7467,Salento,Estándar,Extranjero,320000.0,11,80000.0,Completada
+RES-7468,Santa Rosa de Cabal,Glamping,Nacional,320000.0,8,150000.0,Completada
+RES-7469,Filandia,Suite,Nacional,120000.0,10,150000.0,Completada
+RES-7470,Filandia,Estándar,Nacional,120000.0,6,230000.0,Completada
+RES-7471,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,,2,45000.0,Completada
+RES-7472,Filandia,Suite,Nacional,250000.0,5,150000.0,Cancelada
+RES-7473,Salento,Estándar,Extranjero,120000.0,7,80000.0,Cancelada
+RES-7474,Filandia,Suite,Nacional,320000.0,11,150000.0,Completada
+RES-7475,Salento,Glamping,Corporativo,250000.0,8,0.0,Completada
+RES-7476,Salamina,Estándar,Nacional,320000.0,9,150000.0,Completada
+RES-7477,Filandia,Cabaña Campestre,Extranjero,180000.0,5,80000.0,Completada
+RES-7478,Salamina,Suite,Extranjero,250000.0,11,0.0,Completada
+RES-7479,Salamina,Suite,Extranjero,120000.0,5,0.0,Completada
+RES-7480,Santa Rosa de Cabal,Suite,Extranjero,120000.0,1,80000.0,Completada
+RES-7481,Manizales,Suite,Nacional,180000.0,12,230000.0,Completada
+RES-7482,Santa Rosa de Cabal,Estándar,Extranjero,600000.0,1,45000.0,Completada
+RES-7483,Salento,Estándar,Extranjero,320000.0,1,0.0,Completada
+RES-7484,Manizales,Cabaña Campestre,Nacional,320000.0,5,150000.0,Completada
+RES-7485,Manizales,Estándar,Corporativo,120000.0,2,150000.0,Completada
+RES-7486,Salamina,Estándar,Extranjero,180000.0,5,80000.0,Completada
+RES-7487,Santa Rosa de Cabal,Glamping,Extranjero,120000.0,12,230000.0,Completada
+RES-7488,Santa Rosa de Cabal,Suite,Extranjero,180000.0,7,45000.0,Completada
+RES-7489,Salento,Cabaña Campestre,Nacional,120000.0,12,150000.0,Completada
+RES-7490,Filandia,Glamping,Nacional,250000.0,11,0.0,Completada
+RES-7491,Filandia,Suite,Corporativo,250000.0,9,0.0,Completada
+RES-7492,Salento,Suite,Corporativo,450000.0,5,0.0,Cancelada
+RES-7493,Salamina,Estándar,Nacional,250000.0,10,80000.0,Completada
+RES-7494,Santa Rosa de Cabal,Cabaña Campestre,Nacional,320000.0,6,150000.0,Completada
+RES-7495,Manizales,Estándar,Extranjero,120000.0,7,0.0,Completada
+RES-7496,Salento,Glamping,Nacional,250000.0,8,80000.0,Completada
+RES-7497,Salamina,Cabaña Campestre,Corporativo,120000.0,9,45000.0,Completada
+RES-7498,Santa Rosa de Cabal,Estándar,Nacional,320000.0,10,150000.0,Completada
+RES-7499,Salamina,Cabaña Campestre,Extranjero,120000.0,2,230000.0,Completada
+RES-7500,Salento,Glamping,Extranjero,320000.0,2,0.0,Cancelada
+RES-7501,Salento,Glamping,Nacional,,4,230000.0,Completada
+RES-7502,Santa Rosa de Cabal,Glamping,Extranjero,180000.0,12,150000.0,No Show
+RES-7503,Manizales,Cabaña Campestre,Nacional,320000.0,4,230000.0,Completada
+RES-7504,Salamina,Glamping,Extranjero,450000.0,4,80000.0,Completada
+RES-7505,Salamina,Estándar,Nacional,450000.0,3,80000.0,Completada
+RES-7506,Manizales,Estándar,Nacional,250000.0,2,0.0,Completada
+RES-7507,Salento,Suite,Nacional,450000.0,10,150000.0,Completada
+RES-7508,Filandia,Suite,Extranjero,180000.0,3,,Completada
+RES-7509,Filandia,Glamping,Nacional,250000.0,3,80000.0,Completada
+RES-7510,Manizales,Estándar,Corporativo,600000.0,3,0.0,Completada
+RES-7511,Filandia,Suite,Extranjero,180000.0,11,350000.0,Completada
+RES-7512,Manizales,Suite,Extranjero,450000.0,4,45000.0,Completada
+RES-7513,Manizales,Suite,Extranjero,180000.0,9,230000.0,Completada
+RES-7514,Santa Rosa de Cabal,Estándar,Nacional,120000.0,6,,No Show
+RES-7515,Manizales,Estándar,Extranjero,250000.0,4,80000.0,Cancelada
+RES-7516,Santa Rosa de Cabal,Glamping,Nacional,320000.0,11,,Completada
+RES-7517,Manizales,Cabaña Campestre,Extranjero,120000.0,8,0.0,Cancelada
+RES-7518,Filandia,Estándar,Extranjero,120000.0,10,80000.0,Cancelada
+RES-7519,Manizales,Cabaña Campestre,Nacional,600000.0,3,0.0,Completada
+RES-7520,Filandia,Suite,Extranjero,180000.0,9,80000.0,Completada
+RES-7521,Santa Rosa de Cabal,Suite,Nacional,180000.0,2,150000.0,Cancelada
+RES-7522,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,250000.0,5,45000.0,Completada
+RES-7523,Manizales,Glamping,Nacional,120000.0,1,0.0,Completada
+RES-7524,Salento,Suite,Nacional,180000.0,4,80000.0,Completada
+RES-7525,Salamina,Suite,Extranjero,,8,0.0,Completada
+RES-7526,Santa Rosa de Cabal,Glamping,Nacional,180000.0,4,150000.0,Completada
+RES-7527,Salento,Suite,Nacional,250000.0,11,45000.0,Cancelada
+RES-7528,Salento,Estándar,Extranjero,320000.0,6,230000.0,Completada
+RES-7529,Filandia,Glamping,Nacional,250000.0,1,45000.0,Cancelada
+RES-7530,Salento,Cabaña Campestre,Extranjero,320000.0,6,,Completada
+RES-7531,Filandia,Suite,Nacional,250000.0,8,350000.0,Completada
+RES-7532,Salento,Cabaña Campestre,Nacional,180000.0,7,0.0,Completada
+RES-7533,Manizales,Glamping,Corporativo,180000.0,4,,Completada
+RES-7534,Salamina,Estándar,Extranjero,320000.0,1,45000.0,Cancelada
+RES-7535,Filandia,Suite,Nacional,450000.0,7,0.0,Completada
+RES-7536,Salamina,Suite,Extranjero,450000.0,7,230000.0,Completada
+RES-7537,Manizales,Cabaña Campestre,Extranjero,250000.0,11,80000.0,Cancelada
+RES-7538,Salento,Cabaña Campestre,Nacional,450000.0,12,0.0,Completada
+RES-7539,Santa Rosa de Cabal,Suite,Nacional,600000.0,7,80000.0,Completada
+RES-7540,Filandia,Cabaña Campestre,Nacional,,2,,Completada
+RES-7541,Salento,Suite,Extranjero,320000.0,8,150000.0,Completada
+RES-7542,Manizales,Suite,Nacional,180000.0,5,45000.0,Completada
+RES-7543,Filandia,Glamping,Nacional,120000.0,10,80000.0,Completada
+RES-7544,Filandia,Suite,Extranjero,180000.0,9,80000.0,Cancelada
+RES-7545,Salento,Suite,Corporativo,180000.0,1,0.0,No Show
+RES-7546,Manizales,Estándar,Corporativo,320000.0,10,0.0,Completada
+RES-7547,Manizales,Estándar,Extranjero,120000.0,5,150000.0,Completada
+RES-7548,Filandia,Cabaña Campestre,Nacional,320000.0,2,150000.0,Completada
+RES-7549,Salento,Suite,Nacional,180000.0,3,350000.0,Completada
+RES-7550,Santa Rosa de Cabal,Glamping,Extranjero,250000.0,11,150000.0,Cancelada
+RES-7551,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,450000.0,6,0.0,Completada
+RES-7552,Salamina,Estándar,Nacional,250000.0,11,0.0,Completada
+RES-7553,Filandia,Estándar,Nacional,250000.0,1,80000.0,Completada
+RES-7554,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,180000.0,7,0.0,Completada
+RES-7555,Salamina,Cabaña Campestre,Corporativo,180000.0,6,230000.0,Cancelada
+RES-7556,Manizales,Glamping,Nacional,120000.0,8,45000.0,Completada
+RES-7557,Santa Rosa de Cabal,Cabaña Campestre,Nacional,250000.0,6,45000.0,Completada
+RES-7558,Filandia,Estándar,Extranjero,120000.0,4,45000.0,Completada
+RES-7559,Manizales,Cabaña Campestre,Extranjero,180000.0,4,45000.0,Cancelada
+RES-7560,Salento,Glamping,Extranjero,180000.0,1,150000.0,Cancelada
+RES-7561,Santa Rosa de Cabal,Glamping,Nacional,250000.0,3,,Completada
+RES-7562,Manizales,Glamping,Extranjero,250000.0,1,150000.0,Completada
+RES-7563,Salento,Estándar,Nacional,180000.0,1,80000.0,Cancelada
+RES-7564,Santa Rosa de Cabal,Cabaña Campestre,Nacional,320000.0,12,150000.0,Cancelada
+RES-7565,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,320000.0,8,150000.0,Completada
+RES-7566,Salento,Suite,Nacional,250000.0,6,45000.0,Completada
+RES-7567,Salento,Glamping,Extranjero,180000.0,1,0.0,Completada
+RES-7568,Salento,Estándar,Nacional,,11,45000.0,Completada
+RES-7569,Salento,Cabaña Campestre,Nacional,,2,0.0,Completada
+RES-7570,Filandia,Suite,Nacional,320000.0,3,45000.0,Completada
+RES-7571,Manizales,Glamping,Corporativo,320000.0,9,45000.0,Completada
+RES-7572,Salamina,Cabaña Campestre,Extranjero,320000.0,5,150000.0,Cancelada
+RES-7573,Salamina,Cabaña Campestre,Extranjero,,4,0.0,Cancelada
+RES-7574,Manizales,Suite,Nacional,120000.0,2,45000.0,Completada
+RES-7575,Salamina,Estándar,Nacional,,9,45000.0,Completada
+RES-7576,Manizales,Cabaña Campestre,Extranjero,600000.0,7,0.0,Completada
+RES-7577,Santa Rosa de Cabal,Cabaña Campestre,Corporativo,600000.0,12,45000.0,Completada
+RES-7578,Manizales,Suite,Nacional,180000.0,1,45000.0,Completada
+RES-7579,Salento,Suite,Nacional,250000.0,5,0.0,Completada
+RES-7580,Manizales,Suite,Extranjero,320000.0,11,,Completada
+RES-7581,Manizales,Cabaña Campestre,Extranjero,120000.0,10,350000.0,Completada
+RES-7582,Salamina,Glamping,Extranjero,250000.0,1,45000.0,Completada
+RES-7583,Salamina,Estándar,Nacional,120000.0,10,,Completada
+RES-7584,Manizales,Suite,Nacional,450000.0,4,80000.0,Completada
+RES-7585,Filandia,Cabaña Campestre,Extranjero,180000.0,3,,Completada
+RES-7586,Filandia,Suite,Extranjero,450000.0,9,80000.0,Completada
+RES-7587,Salento,Glamping,Extranjero,180000.0,8,230000.0,Completada
+RES-7588,Filandia,Cabaña Campestre,Nacional,250000.0,12,45000.0,No Show
+RES-7589,Manizales,Glamping,Extranjero,450000.0,10,45000.0,Completada
+RES-7590,Manizales,Glamping,Nacional,250000.0,8,80000.0,Completada
+RES-7591,Salento,Estándar,Extranjero,250000.0,1,0.0,Completada
+RES-7592,Santa Rosa de Cabal,Glamping,Extranjero,180000.0,11,350000.0,Cancelada
+RES-7593,Salamina,Suite,Corporativo,320000.0,9,0.0,Completada
+RES-7594,Santa Rosa de Cabal,Suite,Extranjero,320000.0,12,,Completada
+RES-7595,Santa Rosa de Cabal,Estándar,Extranjero,120000.0,3,80000.0,Completada
+RES-7596,Salamina,Suite,Nacional,120000.0,6,150000.0,No Show
+RES-7597,Salento,Estándar,Extranjero,250000.0,1,,Cancelada
+RES-7598,Salento,Estándar,Corporativo,320000.0,10,150000.0,Completada
+RES-7599,Manizales,Suite,Extranjero,450000.0,6,80000.0,Cancelada
+RES-7600,Salento,Cabaña Campestre,Corporativo,450000.0,9,150000.0,Completada
+RES-7601,Salamina,Glamping,Nacional,320000.0,8,0.0,Cancelada
+RES-7602,Salamina,Suite,Extranjero,180000.0,7,80000.0,Completada
+RES-7603,Salento,Glamping,Nacional,450000.0,7,150000.0,Completada
+RES-7604,Salamina,Suite,Extranjero,,3,0.0,Completada
+RES-7605,Manizales,Estándar,Nacional,120000.0,2,0.0,Completada
+RES-7606,Filandia,Estándar,Nacional,450000.0,8,,Cancelada
+RES-7607,Salento,Suite,Extranjero,320000.0,2,,Completada
+RES-7608,Salento,Cabaña Campestre,Extranjero,180000.0,9,0.0,Completada
+RES-7609,Santa Rosa de Cabal,Suite,Nacional,120000.0,2,150000.0,Completada
+RES-7610,Salento,Suite,Nacional,320000.0,10,45000.0,Completada
+RES-7611,Manizales,Estándar,Extranjero,180000.0,6,80000.0,Completada
+RES-7612,Salento,Estándar,Extranjero,120000.0,5,230000.0,Completada
+RES-7613,Filandia,Cabaña Campestre,Nacional,120000.0,5,,Completada
+RES-7614,Salamina,Suite,Nacional,120000.0,2,45000.0,Completada
+RES-7615,Santa Rosa de Cabal,Suite,Extranjero,250000.0,1,45000.0,No Show
+RES-7616,Santa Rosa de Cabal,Suite,Nacional,600000.0,7,45000.0,Completada
+RES-7617,Filandia,Estándar,Nacional,320000.0,6,45000.0,No Show
+RES-7618,Filandia,Estándar,Extranjero,250000.0,11,80000.0,Completada
+RES-7619,Salamina,Glamping,Extranjero,250000.0,9,80000.0,Cancelada
+RES-7620,Santa Rosa de Cabal,Suite,Extranjero,250000.0,9,45000.0,No Show
+RES-7621,Filandia,Cabaña Campestre,Nacional,,2,150000.0,Cancelada
+RES-7622,Salamina,Estándar,Corporativo,600000.0,12,150000.0,Completada
+RES-7623,Filandia,Estándar,Nacional,180000.0,7,0.0,Completada
+RES-7624,Manizales,Cabaña Campestre,Nacional,,11,45000.0,Completada
+RES-7625,Salamina,Suite,Extranjero,180000.0,7,0.0,Completada
+RES-7626,Filandia,Estándar,Extranjero,180000.0,3,45000.0,No Show
+RES-7627,Manizales,Suite,Corporativo,180000.0,9,0.0,Completada
+RES-7628,Manizales,Cabaña Campestre,Nacional,250000.0,10,150000.0,Completada
+RES-7629,Santa Rosa de Cabal,Estándar,Nacional,320000.0,2,150000.0,Completada
+RES-7630,Salamina,Glamping,Nacional,120000.0,12,150000.0,Completada
+RES-7631,Salamina,Suite,Nacional,180000.0,8,350000.0,Completada
+RES-7632,Filandia,Cabaña Campestre,Extranjero,320000.0,10,0.0,Completada
+RES-7633,Salento,Estándar,Nacional,320000.0,6,,Completada
+RES-7634,Salamina,Cabaña Campestre,Nacional,180000.0,4,80000.0,Completada
+RES-7635,Manizales,Suite,Nacional,180000.0,8,45000.0,Completada
+RES-7636,Filandia,Glamping,Nacional,120000.0,12,150000.0,Cancelada
+RES-7637,Salento,Cabaña Campestre,Extranjero,320000.0,4,80000.0,Cancelada
+RES-7638,Salamina,Cabaña Campestre,Nacional,180000.0,10,80000.0,Completada
+RES-7639,Manizales,Cabaña Campestre,Nacional,180000.0,11,0.0,Completada
+RES-7640,Salamina,Estándar,Nacional,180000.0,3,45000.0,Completada
+RES-7641,Salamina,Estándar,Nacional,180000.0,9,80000.0,Cancelada
+RES-7642,Manizales,Glamping,Nacional,,4,80000.0,Completada
+RES-7643,Salento,Estándar,Nacional,450000.0,3,0.0,Completada
+RES-7644,Manizales,Estándar,Extranjero,250000.0,2,150000.0,Completada
+RES-7645,Santa Rosa de Cabal,Suite,Nacional,320000.0,9,150000.0,Completada
+RES-7646,Salento,Glamping,Nacional,180000.0,4,150000.0,Completada
+RES-7647,Salento,Estándar,Nacional,,7,45000.0,Cancelada
+RES-7648,Santa Rosa de Cabal,Suite,Nacional,180000.0,4,80000.0,Completada
+RES-7649,Filandia,Cabaña Campestre,Extranjero,320000.0,2,150000.0,Completada
+RES-7650,Filandia,Suite,Nacional,320000.0,7,80000.0,Completada
+RES-7651,Manizales,Cabaña Campestre,Extranjero,250000.0,2,230000.0,Completada
+RES-7652,Manizales,Suite,Nacional,320000.0,10,0.0,Completada
+RES-7653,Salamina,Suite,Nacional,250000.0,3,80000.0,Completada
+RES-7654,Salento,Cabaña Campestre,Nacional,320000.0,8,80000.0,Completada
+RES-7655,Salento,Cabaña Campestre,Extranjero,180000.0,4,230000.0,Completada
+RES-7656,Santa Rosa de Cabal,Glamping,Nacional,450000.0,8,80000.0,Completada
+RES-7657,Santa Rosa de Cabal,Suite,Nacional,180000.0,4,0.0,Completada
+RES-7658,Salento,Suite,Nacional,180000.0,8,150000.0,Completada
+RES-7659,Filandia,Estándar,Extranjero,180000.0,11,,Cancelada
+RES-7660,Salento,Estándar,Extranjero,180000.0,11,80000.0,Completada
+RES-7661,Santa Rosa de Cabal,Suite,Nacional,180000.0,12,80000.0,Completada
+RES-7662,Salento,Estándar,Nacional,180000.0,7,230000.0,Cancelada
+RES-7663,Santa Rosa de Cabal,Suite,Nacional,180000.0,3,0.0,No Show
+RES-7664,Salamina,Suite,Corporativo,250000.0,8,45000.0,Completada
+RES-7665,Salento,Estándar,Nacional,120000.0,5,80000.0,Completada
+RES-7666,Filandia,Suite,Nacional,180000.0,7,0.0,Completada
+RES-7667,Manizales,Glamping,Nacional,120000.0,11,45000.0,Completada
+RES-7668,Santa Rosa de Cabal,Estándar,Corporativo,320000.0,6,350000.0,Completada
+RES-7669,Salento,Suite,Extranjero,180000.0,11,150000.0,Cancelada
+RES-7670,Santa Rosa de Cabal,Glamping,Nacional,320000.0,5,45000.0,Completada
+RES-7671,Filandia,Estándar,Nacional,120000.0,2,45000.0,Cancelada
+RES-7672,Manizales,Suite,Extranjero,,2,350000.0,Completada
+RES-7673,Manizales,Suite,Nacional,180000.0,3,80000.0,Completada
+RES-7674,Filandia,Cabaña Campestre,Nacional,180000.0,11,0.0,No Show
+RES-7675,Salento,Glamping,Nacional,180000.0,9,0.0,Completada
+RES-7676,Salamina,Glamping,Nacional,600000.0,4,45000.0,Completada
+RES-7677,Santa Rosa de Cabal,Suite,Nacional,320000.0,8,80000.0,Completada
+RES-7678,Salento,Suite,Nacional,120000.0,1,45000.0,Cancelada
+RES-7679,Santa Rosa de Cabal,Estándar,Nacional,120000.0,10,80000.0,Completada
+RES-7680,Manizales,Glamping,Nacional,,5,80000.0,Completada
+RES-7681,Filandia,Estándar,Extranjero,250000.0,10,350000.0,Completada
+RES-7682,Salamina,Estándar,Nacional,120000.0,6,80000.0,Cancelada
+RES-7683,Manizales,Suite,Nacional,180000.0,5,45000.0,Cancelada
+RES-7684,Manizales,Glamping,Nacional,,8,150000.0,No Show
+RES-7685,Salamina,Cabaña Campestre,Corporativo,180000.0,1,80000.0,No Show
+RES-7686,Manizales,Cabaña Campestre,Nacional,180000.0,11,,No Show
+RES-7687,Santa Rosa de Cabal,Estándar,Nacional,320000.0,6,80000.0,Completada
+RES-7688,Salamina,Estándar,Corporativo,250000.0,4,350000.0,Completada
+RES-7689,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,120000.0,6,230000.0,Completada
+RES-7690,Salamina,Suite,Nacional,320000.0,12,230000.0,No Show
+RES-7691,Manizales,Estándar,Nacional,250000.0,3,45000.0,Completada
+RES-7692,Salamina,Estándar,Nacional,250000.0,1,150000.0,Completada
+RES-7693,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,250000.0,1,0.0,Completada
+RES-7694,Santa Rosa de Cabal,Estándar,Nacional,250000.0,12,80000.0,Completada
+RES-7695,Manizales,Suite,Corporativo,250000.0,8,150000.0,Cancelada
+RES-7696,Salamina,Cabaña Campestre,Extranjero,250000.0,4,150000.0,Cancelada
+RES-7697,Salamina,Cabaña Campestre,Nacional,250000.0,5,80000.0,Completada
+RES-7698,Santa Rosa de Cabal,Glamping,Nacional,180000.0,10,150000.0,Completada
+RES-7699,Salamina,Suite,Nacional,120000.0,4,350000.0,Completada
+RES-7700,Filandia,Cabaña Campestre,Extranjero,180000.0,11,45000.0,Completada
+RES-7701,Salamina,Cabaña Campestre,Nacional,120000.0,4,0.0,Completada
+RES-7702,Filandia,Cabaña Campestre,Nacional,180000.0,11,45000.0,Completada
+RES-7703,Salamina,Estándar,Nacional,180000.0,9,0.0,Completada
+RES-7704,Salamina,Glamping,Corporativo,250000.0,2,80000.0,Completada
+RES-7705,Manizales,Suite,Nacional,180000.0,5,150000.0,Completada
+RES-7706,Manizales,Glamping,Nacional,180000.0,7,230000.0,Cancelada
+RES-7707,Filandia,Suite,Nacional,180000.0,4,45000.0,Completada
+RES-7708,Filandia,Glamping,Corporativo,250000.0,12,230000.0,Cancelada
+RES-7709,Manizales,Suite,Extranjero,180000.0,2,80000.0,Completada
+RES-7710,Santa Rosa de Cabal,Suite,Extranjero,180000.0,9,0.0,Completada
+RES-7711,Salamina,Estándar,Nacional,250000.0,12,45000.0,Completada
+RES-7712,Salento,Estándar,Corporativo,120000.0,5,0.0,Completada
+RES-7713,Santa Rosa de Cabal,Estándar,Extranjero,120000.0,12,0.0,Cancelada
+RES-7714,Filandia,Suite,Extranjero,120000.0,1,80000.0,Completada
+RES-7715,Santa Rosa de Cabal,Cabaña Campestre,Nacional,180000.0,6,230000.0,Completada
+RES-7716,Manizales,Estándar,Nacional,450000.0,10,0.0,No Show
+RES-7717,Filandia,Glamping,Nacional,120000.0,7,80000.0,Completada
+RES-7718,Manizales,Glamping,Nacional,250000.0,2,0.0,No Show
+RES-7719,Salamina,Cabaña Campestre,Nacional,120000.0,5,150000.0,Completada
+RES-7720,Filandia,Estándar,Corporativo,450000.0,6,150000.0,Completada
+RES-7721,Salento,Suite,Corporativo,180000.0,9,45000.0,Completada
+RES-7722,Salamina,Suite,Extranjero,250000.0,8,,Completada
+RES-7723,Santa Rosa de Cabal,Estándar,Nacional,250000.0,3,,Completada
+RES-7724,Manizales,Estándar,Nacional,180000.0,3,80000.0,No Show
+RES-7725,Santa Rosa de Cabal,Suite,Nacional,180000.0,4,150000.0,Cancelada
+RES-7726,Santa Rosa de Cabal,Glamping,Nacional,,7,0.0,Completada
+RES-7727,Salamina,Suite,Nacional,120000.0,7,230000.0,Completada
+RES-7728,Filandia,Glamping,Extranjero,180000.0,12,80000.0,Completada
+RES-7729,Manizales,Estándar,Corporativo,600000.0,3,150000.0,Cancelada
+RES-7730,Santa Rosa de Cabal,Estándar,Nacional,450000.0,9,0.0,Completada
+RES-7731,Salento,Glamping,Nacional,180000.0,1,0.0,No Show
+RES-7732,Santa Rosa de Cabal,Suite,Corporativo,120000.0,6,230000.0,Completada
+RES-7733,Manizales,Suite,Nacional,250000.0,11,80000.0,Completada
+RES-7734,Salamina,Cabaña Campestre,Nacional,120000.0,12,45000.0,Completada
+RES-7735,Santa Rosa de Cabal,Estándar,Nacional,120000.0,8,45000.0,Completada
+RES-7736,Santa Rosa de Cabal,Suite,Extranjero,120000.0,8,150000.0,Completada
+RES-7737,Salamina,Estándar,Nacional,120000.0,7,150000.0,Cancelada
+RES-7738,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,250000.0,12,230000.0,Completada
+RES-7739,Santa Rosa de Cabal,Estándar,Extranjero,320000.0,2,0.0,Completada
+RES-7740,Manizales,Glamping,Nacional,120000.0,4,150000.0,Completada
+RES-7741,Santa Rosa de Cabal,Estándar,Nacional,320000.0,5,45000.0,Cancelada
+RES-7742,Filandia,Glamping,Extranjero,250000.0,10,45000.0,Completada
+RES-7743,Salento,Cabaña Campestre,Extranjero,250000.0,7,80000.0,Completada
+RES-7744,Filandia,Glamping,Extranjero,120000.0,6,45000.0,Completada
+RES-7745,Salamina,Estándar,Extranjero,320000.0,12,45000.0,Cancelada
+RES-7746,Santa Rosa de Cabal,Cabaña Campestre,Nacional,120000.0,7,45000.0,Cancelada
+RES-7747,Salento,Estándar,Corporativo,120000.0,5,150000.0,Completada
+RES-7748,Santa Rosa de Cabal,Cabaña Campestre,Nacional,250000.0,12,150000.0,Completada
+RES-7749,Manizales,Glamping,Extranjero,180000.0,9,0.0,Completada
+RES-7750,Manizales,Estándar,Nacional,320000.0,4,230000.0,Completada
+RES-7751,Santa Rosa de Cabal,Glamping,Corporativo,120000.0,6,,Cancelada
+RES-7752,Salamina,Cabaña Campestre,Nacional,320000.0,8,80000.0,Cancelada
+RES-7753,Salento,Suite,Extranjero,180000.0,3,0.0,Completada
+RES-7754,Santa Rosa de Cabal,Suite,Extranjero,250000.0,11,,Completada
+RES-7755,Filandia,Cabaña Campestre,Nacional,120000.0,2,0.0,Completada
+RES-7756,Manizales,Cabaña Campestre,Corporativo,120000.0,7,0.0,Completada
+RES-7757,Manizales,Suite,Nacional,180000.0,1,45000.0,Cancelada
+RES-7758,Santa Rosa de Cabal,Suite,Nacional,120000.0,9,80000.0,Completada
+RES-7759,Manizales,Suite,Extranjero,180000.0,10,230000.0,Cancelada
+RES-7760,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,250000.0,6,,Cancelada
+RES-7761,Salento,Suite,Nacional,320000.0,12,0.0,Completada
+RES-7762,Salamina,Estándar,Nacional,180000.0,10,80000.0,Completada
+RES-7763,Manizales,Cabaña Campestre,Corporativo,180000.0,9,0.0,Cancelada
+RES-7764,Salamina,Estándar,Nacional,120000.0,7,0.0,Completada
+RES-7765,Santa Rosa de Cabal,Estándar,Extranjero,180000.0,4,45000.0,Completada
+RES-7766,Salamina,Suite,Nacional,120000.0,1,45000.0,Cancelada
+RES-7767,Salento,Suite,Extranjero,320000.0,3,150000.0,Completada
+RES-7768,Santa Rosa de Cabal,Glamping,Nacional,250000.0,2,45000.0,Cancelada
+RES-7769,Salamina,Cabaña Campestre,Nacional,120000.0,5,230000.0,Completada
+RES-7770,Santa Rosa de Cabal,Glamping,Nacional,180000.0,5,80000.0,Completada
+RES-7771,Filandia,Glamping,Nacional,120000.0,7,0.0,Cancelada
+RES-7772,Salamina,Suite,Extranjero,250000.0,11,80000.0,Completada
+RES-7773,Salento,Estándar,Extranjero,250000.0,12,150000.0,Completada
+RES-7774,Salamina,Glamping,Nacional,320000.0,11,80000.0,Completada
+RES-7775,Manizales,Estándar,Nacional,450000.0,5,45000.0,Completada
+RES-7776,Salamina,Estándar,Nacional,250000.0,9,230000.0,Completada
+RES-7777,Manizales,Cabaña Campestre,Nacional,250000.0,1,80000.0,Completada
+RES-7778,Santa Rosa de Cabal,Estándar,Nacional,180000.0,10,150000.0,Completada
+RES-7779,Salento,Cabaña Campestre,Nacional,180000.0,9,80000.0,Completada
+RES-7780,Salamina,Suite,Extranjero,250000.0,2,0.0,Completada
+RES-7781,Santa Rosa de Cabal,Suite,Nacional,120000.0,3,230000.0,Cancelada
+RES-7782,Salento,Estándar,Extranjero,,8,230000.0,Completada
+RES-7783,Santa Rosa de Cabal,Estándar,Nacional,120000.0,10,230000.0,Completada
+RES-7784,Salento,Cabaña Campestre,Nacional,450000.0,3,80000.0,Completada
+RES-7785,Salento,Estándar,Nacional,320000.0,6,45000.0,Cancelada
+RES-7786,Manizales,Estándar,Corporativo,120000.0,12,80000.0,Completada
+RES-7787,Filandia,Cabaña Campestre,Nacional,180000.0,2,0.0,Completada
+RES-7788,Salamina,Glamping,Extranjero,120000.0,3,0.0,Cancelada
+RES-7789,Santa Rosa de Cabal,Estándar,Nacional,450000.0,7,80000.0,No Show
+RES-7790,Salamina,Estándar,Extranjero,180000.0,11,80000.0,Completada
+RES-7791,Manizales,Glamping,Extranjero,,3,45000.0,Completada
+RES-7792,Santa Rosa de Cabal,Estándar,Nacional,600000.0,10,45000.0,Completada
+RES-7793,Manizales,Estándar,Nacional,120000.0,9,0.0,Cancelada
+RES-7794,Manizales,Cabaña Campestre,Nacional,180000.0,1,80000.0,Completada
+RES-7795,Manizales,Cabaña Campestre,Nacional,120000.0,11,0.0,Completada
+RES-7796,Santa Rosa de Cabal,Glamping,Nacional,250000.0,9,150000.0,Completada
+RES-7797,Filandia,Suite,Nacional,250000.0,4,150000.0,Completada
+RES-7798,Manizales,Estándar,Extranjero,450000.0,12,150000.0,Completada
+RES-7799,Salento,Suite,Extranjero,180000.0,3,,Completada
+RES-7800,Manizales,Glamping,Nacional,600000.0,9,0.0,Completada
+RES-7801,Filandia,Cabaña Campestre,Extranjero,120000.0,2,45000.0,Completada
+RES-7802,Salento,Suite,Nacional,180000.0,6,0.0,No Show
+RES-7803,Filandia,Glamping,Nacional,320000.0,2,150000.0,Cancelada
+RES-7804,Salento,Estándar,Extranjero,180000.0,1,0.0,Completada
+RES-7805,Filandia,Suite,Extranjero,450000.0,11,150000.0,Completada
+RES-7806,Salento,Estándar,Corporativo,320000.0,5,0.0,Completada
+RES-7807,Manizales,Glamping,Extranjero,180000.0,5,45000.0,Completada
+RES-7808,Salento,Glamping,Extranjero,320000.0,7,0.0,Completada
+RES-7809,Salento,Estándar,Extranjero,250000.0,5,230000.0,Completada
+RES-7810,Manizales,Glamping,Extranjero,180000.0,5,0.0,Completada
+RES-7811,Santa Rosa de Cabal,Estándar,Nacional,450000.0,11,80000.0,Completada
+RES-7812,Salento,Suite,Nacional,180000.0,9,150000.0,Cancelada
+RES-7813,Filandia,Suite,Extranjero,320000.0,12,150000.0,Completada
+RES-7814,Salento,Cabaña Campestre,Nacional,250000.0,5,80000.0,Completada
+RES-7815,Manizales,Suite,Nacional,180000.0,1,150000.0,Cancelada
+RES-7816,Santa Rosa de Cabal,Estándar,Extranjero,180000.0,10,80000.0,Completada
+RES-7817,Salento,Glamping,Extranjero,450000.0,8,0.0,Completada
+RES-7818,Salamina,Estándar,Nacional,180000.0,2,0.0,Completada
+RES-7819,Santa Rosa de Cabal,Glamping,Nacional,450000.0,1,,Completada
+RES-7820,Filandia,Suite,Nacional,320000.0,12,230000.0,Cancelada
+RES-7821,Salento,Estándar,Nacional,,6,150000.0,Completada
+RES-7822,Manizales,Glamping,Extranjero,320000.0,4,150000.0,Cancelada
+RES-7823,Salamina,Glamping,Extranjero,120000.0,8,80000.0,Completada
+RES-7824,Salamina,Cabaña Campestre,Nacional,180000.0,1,0.0,Cancelada
+RES-7825,Filandia,Suite,Nacional,180000.0,2,230000.0,Completada
+RES-7826,Salamina,Estándar,Nacional,120000.0,5,150000.0,Completada
+RES-7827,Filandia,Cabaña Campestre,Extranjero,450000.0,9,,Cancelada
+RES-7828,Salento,Cabaña Campestre,Nacional,250000.0,2,0.0,Cancelada
+RES-7829,Santa Rosa de Cabal,Estándar,Nacional,120000.0,7,80000.0,No Show
+RES-7830,Salento,Estándar,Extranjero,250000.0,6,80000.0,Completada
+RES-7831,Santa Rosa de Cabal,Suite,Corporativo,120000.0,4,80000.0,Completada
+RES-7832,Manizales,Glamping,Corporativo,180000.0,6,45000.0,Cancelada
+RES-7833,Salento,Cabaña Campestre,Extranjero,120000.0,4,150000.0,Cancelada
+RES-7834,Salamina,Suite,Nacional,180000.0,7,80000.0,Cancelada
+RES-7835,Filandia,Cabaña Campestre,Corporativo,600000.0,5,80000.0,Completada
+RES-7836,Santa Rosa de Cabal,Estándar,Nacional,320000.0,12,80000.0,Completada
+RES-7837,Manizales,Suite,Corporativo,450000.0,1,0.0,Cancelada
+RES-7838,Salamina,Glamping,Extranjero,180000.0,8,150000.0,Completada
+RES-7839,Salamina,Cabaña Campestre,Extranjero,180000.0,6,150000.0,Completada
+RES-7840,Santa Rosa de Cabal,Suite,Corporativo,180000.0,9,0.0,Completada
+RES-7841,Santa Rosa de Cabal,Estándar,Extranjero,120000.0,12,150000.0,Completada
+RES-7842,Filandia,Suite,Nacional,180000.0,10,80000.0,Completada
+RES-7843,Santa Rosa de Cabal,Suite,Extranjero,320000.0,8,0.0,Completada
+RES-7844,Filandia,Estándar,Nacional,120000.0,2,150000.0,Completada
+RES-7845,Salento,Estándar,Extranjero,250000.0,1,0.0,Completada
+RES-7846,Santa Rosa de Cabal,Glamping,Corporativo,180000.0,4,45000.0,Completada
+RES-7847,Salamina,Cabaña Campestre,Extranjero,120000.0,10,0.0,Completada
+RES-7848,Santa Rosa de Cabal,Suite,Nacional,450000.0,1,80000.0,Cancelada
+RES-7849,Salento,Cabaña Campestre,Nacional,180000.0,11,150000.0,Completada
+RES-7850,Salamina,Glamping,Extranjero,320000.0,3,230000.0,Completada
+RES-7851,Salamina,Estándar,Nacional,180000.0,9,45000.0,Completada
+RES-7852,Salamina,Suite,Nacional,450000.0,10,350000.0,Completada
+RES-7853,Filandia,Glamping,Nacional,180000.0,7,80000.0,Completada
+RES-7854,Manizales,Glamping,Nacional,320000.0,8,80000.0,Completada
+RES-7855,Salento,Suite,Nacional,320000.0,11,0.0,Completada
+RES-7856,Santa Rosa de Cabal,Cabaña Campestre,Nacional,180000.0,12,80000.0,Completada
+RES-7857,Salento,Estándar,Extranjero,120000.0,11,150000.0,Completada
+RES-7858,Salento,Glamping,Nacional,180000.0,1,80000.0,Completada
+RES-7859,Salamina,Suite,Extranjero,450000.0,4,80000.0,Completada
+RES-7860,Filandia,Estándar,Extranjero,250000.0,6,150000.0,Cancelada
+RES-7861,Filandia,Cabaña Campestre,Nacional,180000.0,6,350000.0,Completada
+RES-7862,Salamina,Suite,Nacional,250000.0,7,150000.0,No Show
+RES-7863,Filandia,Glamping,Extranjero,,7,45000.0,Completada
+RES-7864,Santa Rosa de Cabal,Suite,Extranjero,250000.0,8,80000.0,Completada
+RES-7865,Manizales,Suite,Nacional,250000.0,12,80000.0,Completada
+RES-7866,Salento,Suite,Nacional,600000.0,8,0.0,Completada
+RES-7867,Manizales,Cabaña Campestre,Nacional,250000.0,6,45000.0,Completada
+RES-7868,Filandia,Estándar,Nacional,320000.0,3,350000.0,Completada
+RES-7869,Santa Rosa de Cabal,Glamping,Nacional,250000.0,10,230000.0,Completada
+RES-7870,Manizales,Estándar,Nacional,180000.0,12,45000.0,Completada
+RES-7871,Filandia,Cabaña Campestre,Extranjero,450000.0,8,80000.0,Completada
+RES-7872,Salento,Glamping,Nacional,120000.0,12,0.0,Cancelada
+RES-7873,Filandia,Suite,Nacional,120000.0,7,80000.0,Completada
+RES-7874,Santa Rosa de Cabal,Cabaña Campestre,Nacional,120000.0,11,230000.0,Cancelada
+RES-7875,Salamina,Glamping,Extranjero,120000.0,7,80000.0,Completada
+RES-7876,Salamina,Glamping,Extranjero,180000.0,2,0.0,No Show
+RES-7877,Salamina,Glamping,Nacional,120000.0,8,45000.0,Completada
+RES-7878,Filandia,Glamping,Extranjero,320000.0,11,0.0,Cancelada
+RES-7879,Manizales,Estándar,Extranjero,320000.0,1,80000.0,Cancelada
+RES-7880,Filandia,Glamping,Corporativo,320000.0,2,0.0,Cancelada
+RES-7881,Filandia,Estándar,Corporativo,250000.0,2,,Cancelada
+RES-7882,Salento,Suite,Nacional,180000.0,11,0.0,Completada
+RES-7883,Salamina,Glamping,Nacional,180000.0,5,350000.0,Completada
+RES-7884,Salamina,Estándar,Nacional,600000.0,11,80000.0,Completada
+RES-7885,Salento,Suite,Nacional,120000.0,12,80000.0,Completada
+RES-7886,Salamina,Estándar,Extranjero,120000.0,9,,No Show
+RES-7887,Filandia,Estándar,Extranjero,120000.0,2,0.0,Cancelada
+RES-7888,Manizales,Glamping,Nacional,120000.0,8,80000.0,Completada
+RES-7889,Salento,Glamping,Extranjero,320000.0,3,45000.0,Completada
+RES-7890,Salento,Cabaña Campestre,Extranjero,250000.0,4,80000.0,Cancelada
+RES-7891,Manizales,Cabaña Campestre,Nacional,120000.0,3,150000.0,Completada
+RES-7892,Salento,Suite,Nacional,120000.0,12,80000.0,Completada
+RES-7893,Santa Rosa de Cabal,Cabaña Campestre,Nacional,180000.0,10,80000.0,Completada
+RES-7894,Santa Rosa de Cabal,Cabaña Campestre,Nacional,120000.0,4,0.0,Completada
+RES-7895,Salamina,Suite,Extranjero,,10,0.0,No Show
+RES-7896,Salento,Glamping,Nacional,320000.0,7,230000.0,Completada
+RES-7897,Santa Rosa de Cabal,Estándar,Extranjero,250000.0,11,80000.0,Completada
+RES-7898,Filandia,Glamping,Extranjero,250000.0,3,80000.0,Cancelada
+RES-7899,Salamina,Cabaña Campestre,Nacional,250000.0,2,80000.0,Completada
+RES-7900,Salento,Glamping,Extranjero,180000.0,1,0.0,Completada
+RES-7901,Santa Rosa de Cabal,Glamping,Extranjero,120000.0,1,230000.0,Completada
+RES-7902,Manizales,Glamping,Nacional,180000.0,8,0.0,Completada
+RES-7903,Salamina,Suite,Nacional,250000.0,8,0.0,Completada
+RES-7904,Filandia,Estándar,Nacional,180000.0,9,80000.0,Completada
+RES-7905,Santa Rosa de Cabal,Suite,Extranjero,450000.0,10,230000.0,Completada
+RES-7906,Filandia,Cabaña Campestre,Nacional,320000.0,9,150000.0,Completada
+RES-7907,Salento,Suite,Nacional,450000.0,1,80000.0,No Show
+RES-7908,Salamina,Glamping,Corporativo,,9,45000.0,Completada
+RES-7909,Filandia,Glamping,Nacional,450000.0,9,230000.0,Completada
+RES-7910,Filandia,Glamping,Nacional,120000.0,9,80000.0,Completada
+RES-7911,Filandia,Cabaña Campestre,Nacional,120000.0,4,150000.0,Completada
+RES-7912,Santa Rosa de Cabal,Estándar,Nacional,250000.0,10,80000.0,Completada
+RES-7913,Santa Rosa de Cabal,Estándar,Nacional,250000.0,3,45000.0,Completada
+RES-7914,Salamina,Cabaña Campestre,Extranjero,320000.0,3,80000.0,Completada
+RES-7915,Manizales,Cabaña Campestre,Extranjero,180000.0,3,45000.0,Completada
+RES-7916,Salento,Cabaña Campestre,Extranjero,320000.0,12,0.0,Completada
+RES-7917,Santa Rosa de Cabal,Cabaña Campestre,Nacional,180000.0,8,45000.0,Completada
+RES-7918,Salento,Estándar,Nacional,320000.0,12,0.0,Completada
+RES-7919,Santa Rosa de Cabal,Glamping,Nacional,120000.0,10,80000.0,Completada
+RES-7920,Salento,Estándar,Nacional,120000.0,6,45000.0,Completada
+RES-7921,Manizales,Estándar,Extranjero,120000.0,3,0.0,No Show
+RES-7922,Salamina,Glamping,Nacional,320000.0,3,45000.0,Completada
+RES-7923,Salamina,Glamping,Nacional,450000.0,1,350000.0,Completada
+RES-7924,Salamina,Estándar,Extranjero,,10,150000.0,No Show
+RES-7925,Manizales,Glamping,Nacional,120000.0,6,150000.0,Cancelada
+RES-7926,Salento,Glamping,Extranjero,250000.0,12,45000.0,No Show
+RES-7927,Salamina,Glamping,Extranjero,250000.0,2,45000.0,Completada
+RES-7928,Santa Rosa de Cabal,Cabaña Campestre,Extranjero,180000.0,11,150000.0,Completada
+RES-7929,Salento,Glamping,Extranjero,,2,45000.0,Completada
+RES-7930,Manizales,Cabaña Campestre,Nacional,250000.0,6,80000.0,Completada
+RES-7931,Santa Rosa de Cabal,Estándar,Nacional,250000.0,11,80000.0,Cancelada
+RES-7932,Filandia,Suite,Extranjero,320000.0,3,0.0,Completada
+RES-7933,Manizales,Suite,Corporativo,320000.0,4,230000.0,Completada
+RES-7934,Manizales,Glamping,Nacional,,3,0.0,Completada
+RES-7935,Santa Rosa de Cabal,Suite,Nacional,180000.0,7,150000.0,Cancelada
+RES-7936,Manizales,Cabaña Campestre,Nacional,450000.0,3,350000.0,Completada
+RES-7937,Manizales,Cabaña Campestre,Nacional,450000.0,5,,Cancelada
+RES-7938,Santa Rosa de Cabal,Glamping,Nacional,250000.0,11,230000.0,Completada
+RES-7939,Salamina,Cabaña Campestre,Nacional,450000.0,8,0.0,Completada
+RES-7940,Manizales,Cabaña Campestre,Corporativo,180000.0,1,80000.0,Completada
+RES-7941,Manizales,Suite,Nacional,180000.0,12,0.0,Completada
+RES-7942,Manizales,Estándar,Extranjero,250000.0,7,,Completada
+RES-7943,Salento,Suite,Nacional,320000.0,7,230000.0,Completada
+RES-7944,Filandia,Cabaña Campestre,Nacional,320000.0,8,,Completada
+RES-7945,Filandia,Cabaña Campestre,Nacional,180000.0,11,0.0,Cancelada
+RES-7946,Filandia,Cabaña Campestre,Nacional,600000.0,4,,Completada
+RES-7947,Salento,Suite,Nacional,250000.0,10,0.0,Completada
+RES-7948,Filandia,Estándar,Extranjero,180000.0,1,0.0,Completada
+RES-7949,Filandia,Estándar,Nacional,320000.0,5,45000.0,Completada
+RES-7950,Salamina,Suite,Extranjero,180000.0,6,0.0,No Show
+RES-7951,Salamina,Suite,Nacional,450000.0,6,45000.0,Completada
+RES-7952,Salento,Estándar,Nacional,450000.0,7,150000.0,Completada
+RES-7953,Santa Rosa de Cabal,Suite,Extranjero,180000.0,2,0.0,Completada
+RES-7954,Salamina,Suite,Nacional,120000.0,1,,Completada
+RES-7955,Manizales,Cabaña Campestre,Nacional,120000.0,12,0.0,Completada
+RES-7956,Filandia,Glamping,Nacional,450000.0,10,230000.0,Completada
+RES-7957,Manizales,Glamping,Nacional,180000.0,9,45000.0,No Show
+RES-7958,Salento,Estándar,Extranjero,450000.0,5,45000.0,No Show
+RES-7959,Manizales,Cabaña Campestre,Corporativo,180000.0,9,150000.0,No Show
+RES-7960,Filandia,Cabaña Campestre,Corporativo,250000.0,11,150000.0,Completada
+RES-7961,Salamina,Estándar,Extranjero,320000.0,9,230000.0,Cancelada
+RES-7962,Filandia,Suite,Extranjero,450000.0,12,80000.0,Completada
+RES-7963,Santa Rosa de Cabal,Cabaña Campestre,Nacional,450000.0,6,45000.0,Completada
+RES-7964,Salento,Suite,Extranjero,450000.0,12,80000.0,Completada
+RES-7965,Salento,Glamping,Extranjero,,11,80000.0,Completada
+RES-7966,Filandia,Glamping,Nacional,180000.0,4,80000.0,Cancelada
+RES-7967,Manizales,Glamping,Extranjero,250000.0,6,45000.0,Completada
+RES-7968,Santa Rosa de Cabal,Estándar,Nacional,180000.0,1,350000.0,Cancelada
+RES-7969,Salento,Estándar,Extranjero,320000.0,2,0.0,Completada
+RES-7970,Filandia,Glamping,Nacional,120000.0,12,230000.0,Completada
+RES-7971,Santa Rosa de Cabal,Glamping,Nacional,450000.0,12,,Completada
+RES-7972,Filandia,Cabaña Campestre,Nacional,120000.0,3,0.0,No Show
+RES-7973,Manizales,Glamping,Extranjero,250000.0,12,45000.0,Completada
+RES-7974,Manizales,Suite,Nacional,180000.0,1,,Completada
+RES-7975,Filandia,Glamping,Nacional,320000.0,12,80000.0,Completada
+RES-7976,Filandia,Cabaña Campestre,Nacional,120000.0,10,,Completada
+RES-7977,Manizales,Cabaña Campestre,Nacional,600000.0,2,45000.0,Completada
+RES-7978,Santa Rosa de Cabal,Estándar,Nacional,180000.0,7,45000.0,Completada
+RES-7979,Manizales,Cabaña Campestre,Extranjero,120000.0,4,0.0,Completada
+RES-7980,Manizales,Estándar,Corporativo,250000.0,11,150000.0,Completada
+RES-7981,Filandia,Cabaña Campestre,Extranjero,120000.0,12,0.0,Completada
+RES-7982,Santa Rosa de Cabal,Estándar,Nacional,250000.0,12,230000.0,Completada
+RES-7983,Salento,Cabaña Campestre,Nacional,180000.0,1,80000.0,Completada
+RES-7984,Salamina,Cabaña Campestre,Nacional,120000.0,5,80000.0,Completada
+RES-7985,Filandia,Estándar,Nacional,250000.0,10,0.0,Completada
+RES-7986,Manizales,Suite,Extranjero,250000.0,8,0.0,Completada
+RES-7987,Manizales,Cabaña Campestre,Extranjero,,6,150000.0,Completada
+RES-7988,Salamina,Glamping,Corporativo,320000.0,8,,Completada
+RES-7989,Santa Rosa de Cabal,Suite,Corporativo,120000.0,8,150000.0,No Show
+RES-7990,Salamina,Estándar,Corporativo,120000.0,5,,Completada
+RES-7991,Manizales,Glamping,Extranjero,320000.0,5,230000.0,Completada
+RES-7992,Filandia,Cabaña Campestre,Extranjero,450000.0,7,45000.0,No Show
+RES-7993,Filandia,Estándar,Nacional,120000.0,5,0.0,Completada
+RES-7994,Manizales,Cabaña Campestre,Extranjero,450000.0,4,0.0,Completada
+RES-7995,Santa Rosa de Cabal,Estándar,Extranjero,120000.0,10,45000.0,Completada
+RES-7996,Filandia,Glamping,Nacional,320000.0,5,230000.0,Cancelada
+RES-7997,Manizales,Estándar,Extranjero,320000.0,8,150000.0,Completada
+RES-7998,Santa Rosa de Cabal,Glamping,Extranjero,250000.0,1,45000.0,Completada
+RES-7999,Salento,Glamping,Extranjero,120000.0,8,45000.0,Completada
+RES-8000,Santa Rosa de Cabal,Suite,Corporativo,600000.0,11,0.0,Cancelada
+RES-7121,Filandia,Glamping,Nacional,180000.0,2,45000.0,Cancelada
+RES-7122,Manizales,Estándar,Nacional,180000.0,8,80000.0,Completada
+RES-7123,Salento,Suite,Nacional,120000.0,8,350000.0,Cancelada
+RES-7124,Santa Rosa de Cabal,Suite,Nacional,120000.0,9,80000.0,Completada
+RES-7125,Filandia,Estándar,Nacional,120000.0,3,150000.0,Completada
+RES-7126,Salamina,Estándar,Nacional,250000.0,9,150000.0,Completada
+RES-7127,Manizales,Suite,Extranjero,120000.0,11,0.0,Completada
+RES-7128,Salamina,Cabaña Campestre,Nacional,450000.0,2,0.0,Cancelada
+RES-7129,Salamina,Glamping,Extranjero,180000.0,2,150000.0,Completada
+RES-7130,Salamina,Suite,Extranjero,,11,150000.0,Completada
+RES-7131,Salamina,Estándar,Nacional,450000.0,11,150000.0,Cancelada
+RES-7132,Salamina,Estándar,Nacional,120000.0,8,80000.0,Completada
